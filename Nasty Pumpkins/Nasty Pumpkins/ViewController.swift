@@ -21,7 +21,7 @@ class ViewController: UIViewController, SCNPhysicsContactDelegate {
     
     //Max and current sones/objects
     var currentStones: Float = 0.0
-    var maxStones: Float = 15.0
+    var maxStones: Float = 50.0
     
     var audioPlayer = AVAudioPlayer()
     
